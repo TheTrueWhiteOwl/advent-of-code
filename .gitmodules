@@ -1,0 +1,6 @@
+[submodule "2025"]
+	path = 2025
+	url = git@github.com:TheTrueWhiteOwl/advent-of-code-2025.git
+[submodule "2016"]
+	path = 2016
+	url = git@github.com:TheTrueWhiteOwl/advent-of-code-2016.git
